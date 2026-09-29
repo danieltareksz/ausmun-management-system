@@ -46,6 +46,3 @@ maven-default.logger.log
 *.log
 *.sql.bak
 *.db
-
-# Aider
-.aider*
