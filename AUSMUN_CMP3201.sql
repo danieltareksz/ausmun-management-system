@@ -1,5 +1,4 @@
 
-
 CREATE TABLE country (
     country_id     NUMBER(4),
     region         VARCHAR2(50) CONSTRAINT country_region_nn NOT NULL,
